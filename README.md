@@ -15,4 +15,5 @@ Optional stories:
 - [x] Tip amount and total are shown with commas as thousands separators
 
 Walkthrough:
+
 ![GIF walkthrough](tipcalc.gif)
